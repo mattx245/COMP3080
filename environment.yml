@@ -1,0 +1,9 @@
+name: comp3080
+channels:
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - numpy
+  - jupyterlab
+prefix: C:\Users\mattx\anaconda3\envs\comp3080
